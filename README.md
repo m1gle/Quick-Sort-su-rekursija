@@ -1,1 +1,1 @@
-# Quick-Sort-su-rekursija-
+# Quick-Sort-su-rekursija
