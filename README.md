@@ -18,4 +18,6 @@ Išrūšiuotas masyvas: [-10, -6, 0, 1, 2, 2.2, 3, 4, 5, 8, 9]
 ```
 
 Paleidimas:
-Instaliuoti node.js aplinką. Terminale programą paleisti su: _node quick-sort.js_
+- Instaliuoti node.js aplinką 
+- Atsisiųsti repozitoriją, paleisti _quick-sort.js_ programą
+- Terminale programą paleisti su: _node quick-sort.js_
